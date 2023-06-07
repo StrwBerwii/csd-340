@@ -21,35 +21,35 @@ h1 {
   font-size: 48px;
   line-height: 1.2;
   color: #FFFFFF;
-  background-color; #E8A0D4
+  background-color: #F2AEDB
 }
 
 h2 {
   font-size: 36px;
   line-height: 1.2;
   color: #FFFFFF;
-  background-color; #E8A0D4
+  background-color: #F2AEDB
 }
 
 h3 {
   font-size: 24px;
   line-height: 1.2;
   color: #FFFFFF;
-  background-color; #E8A0D4
+  background-color: #F2AEDB
 }
 
 h4 {
   font-size: 24px;
   line-height: 1.2;
   color: #FFFFFF;
-  background-color; #E8A0D4
+  background-color: #F2AEDB
 }
 
 
 a:hover {
-  color: #F280E1;
+  color: #BE90EA
 }
 
 a:visited {
-  color: #503131;
+  color: #8A5AB9
 }
