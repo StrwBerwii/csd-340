@@ -8,7 +8,7 @@ h1, h2, h3, h4 {
   font-family: 'Times New Roman', serif;
   font-weight: bold;
   margin: 0;
-  border: 1px solid #D6A800;
+  border: 1px solid #631010;
   padding: 10px;
 }
 
@@ -47,9 +47,9 @@ h4 {
 
 
 a:hover {
-  color: #BE90EA
+  color: #b36fe0
 }
 
 a:visited {
-  color: #8A5AB9
+  color: #5d1b9e
 }
