@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: #e9a8de;
+    background-color: #F2AEDB;
     color: white;
     padding: 20px;
     text-align: center;
@@ -16,8 +16,8 @@ h1 {
 
 #navbar {
     overflow: hidden;
-    background-color: #4F3674;
-    border-bottom: 15px solid #D6A800;
+    background-color: #F2AEDB;
+    border-bottom: 15px solid #d60047;
 }
 
 #navbar a {
@@ -30,8 +30,8 @@ h1 {
 }
 
 #navbar a:hover {
-    background-color: #D6A800;
-    color: #4F3674;
+    background-color: #d60076;
+    color: #F2AEDB;
 }
 
 #container {
@@ -50,7 +50,7 @@ h1 {
 .card-title {
     text-align: center;
     font-size: 2em;
-    color: #4F3674;
+    color: #d60076;
     font-weight: 400;
 }
 
@@ -63,7 +63,7 @@ h1 {
 }
 
 footer {
-    background-color: #4F3674;
+    background-color: #F2AEDB;
     position: absolute;
     bottom: 0;
     width: 100%;
