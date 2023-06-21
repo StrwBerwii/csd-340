@@ -5,7 +5,7 @@ body {
 
 header {
     background-color: #F2AEDB;
-    color: white;
+    color: #d60076;
     padding: 20px;
     text-align: center;
 }
@@ -23,7 +23,7 @@ h1 {
 #navbar a {
     float: left;
     display: block;
-    color: white;
+    color: #d60076;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -70,7 +70,7 @@ footer {
 }
 
 footer p {
-    color: white;
+    color: #d60076;
     font-weight: 400;
     float: right;
     padding-right: 10px;
@@ -80,7 +80,7 @@ footer p {
 
 footer a {
     text-decoration: none;
-    color: white;
+    color: #d60076;
 }
 
 footer a:hover {
